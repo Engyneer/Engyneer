@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Engyneer
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning 100 days of code with Dr Yu
 - 💞️ I’m looking to collaborate on ideas analysis and execution
 - 📫 How to reach me +234-803-1920-963
 
